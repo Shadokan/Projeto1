@@ -1,0 +1,7 @@
+name: Projeto1
+main: com.grandemc.projeto1.Projeto
+description: plugin atoa
+version: 1.0
+commands:
+  ajuda:
+  entidade:

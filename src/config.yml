@@ -1,0 +1,19 @@
+configuracao:
+  valor: 10
+  mensagem: '&eo plugin iniciou com sucessoeee'
+  lista:
+    - 'Olá'
+    - 'beleza'
+    - 'tudo bem?'
+pessoas:
+  pessoa01:
+    idade: 10
+    nome: Gabriel
+  pessoa02:
+    idade: 12
+    nome: Jonas
+  pessoa03:
+    idade: 15
+    nome: joao
+mensagem:
+  ready: 'oiie'
